@@ -1,10 +1,13 @@
-name = "Anyone Can Access Shadow Storage"
+name = "Everyone Shadow Storage"
 description = "Lets every player use the Magician's Top Hat by adding the magician tag and component."
 author = "isaac"
 version = "1.0.0.1"
 forumthread = ""
 
 api_version = 10
+
+icon_atlas = "modicon.xml"
+icon = "modicon.tex"
 
 dst_compatible = true
 dont_starve_compatible = false

@@ -2,14 +2,18 @@
   "appid": 322330,
   "visibility": 0,
   "tags": [
-    "server_only_mod",
     "all_clients_require_mod",
-    "wortox",
     "QOL",
     "tweaks",
-    "vanilla",
-    "souls"
+    "vanilla"
   ],
-  "ignore": [],
+  "ignore": [
+    "modicon.png",
+    "image.jpg",
+    "README.md",
+    ".preview_backup",
+    ".idea",
+    ".git"
+  ],
   "keep": []
 }
